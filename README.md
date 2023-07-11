@@ -54,7 +54,8 @@ Good readability
 Старый дизайн шрифтов/
 Old font design
 
-![После переработки](https://github.com/Bibosiandre/DensityOfWaterAlcoholSolution/blob/master/demo/6.png)
+![После переработки](https://github.com/Bibosiandre/DensityOfWaterAlcoholSolution/blob/master/demo/7.png)
+![После переработки](https://github.com/Bibosiandre/DensityOfWaterAlcoholSolution/blob/master/demo/7.png)
 
 Новый дизайн шрифтов и добавлена кнопка с информацией о разработчиках/
 New font design and added developer information button
